@@ -1,0 +1,31 @@
+_repo: Waar-mensch-en-tijger-buren-zijn_73896
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Noordaa, L.S.W van der
+    gutenberg_agent_id: '57266'
+    url: http://www.gutenberg.org/2009/agents/57266
+creator:
+  author:
+    agent_name: Westenenk, L.C.
+    gutenberg_agent_id: '57265'
+    url: http://www.gutenberg.org/2009/agents/57265
+description: ''
+gutenberg_issued: '2024-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73896'
+language: nl
+pgterms:marc905: 20240128125121westenenk
+pgterms:marc906: '1927'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg. (Koninklijke Bibliotheek, The Hague)
+publication_note: '  $a''s-Gravenhage :$bH. P. Leopold''s Uitgevers-Mij., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Waar mensch en tijger buren zijn
+url: http://www.gutenberg.org/ebooks/73896
