@@ -5,12 +5,17 @@ contributor:
     agent_name: Noordaa, L.S.W van der
     gutenberg_agent_id: '57266'
     url: http://www.gutenberg.org/2009/agents/57266
+covers:
+- cover_type: archival
+  image_path: 73896-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Westenenk, L.C.
     gutenberg_agent_id: '57265'
     url: http://www.gutenberg.org/2009/agents/57265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73896#Waar-mensch-en-tijger-buren-zijn
 gutenberg_issued: '2024-06-23'
 gutenberg_type: Text
 identifiers:
